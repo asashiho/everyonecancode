@@ -208,16 +208,15 @@ Azureの世界では、「リソース」はAzureが管理するエンティテ�
 3. **「Web Apps」**(日本語の場合は「Webアプリ」)  を検索し、**[Create]** をクリックします。
 ![](./images/create-webapps.png)
 
-4. サブスクリプションとリソースグループを選択し、以下の画像のとおり設定してください。
+1. サブスクリプションとリソースグループを選択し、以下のとおり設定してください。
   
     - Name: `everyonecancode-backend-あなたの名前`
     - Publish: `Code`
     - Runtime stack: `Python 3.12`
     - Operating System: `Linux`
-    - Region: `West Europe`
-    ![backend 0](./images/light/BackendApp0.png)
+    - Region: `Japan East`
 
-5. App Service Planのところで以下を選択します。
+2. App Service Planのところで以下を選択します。
 
 |チーム名|App Service Plan|
 |---|---|
