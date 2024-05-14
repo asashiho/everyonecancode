@@ -184,7 +184,8 @@ Azureの世界では、「リソース」はAzureが管理するエンティテ�
 
    + Azureポータルにログインするために使用した名前で、サブスクリプションとリソースグループを選択します。
    + Azureストレージアカウントの名前はグローバルで一意である必要があります。また、小文字と特殊文字は使用できません。
-   + **`Locally-redundant storage (LRS)`** と **`Standard`** を選択してください。
+   + **`Locally-redundant storage (LRS)`** と **`Standard`** を選択してください。また、リージョンは **`Japan East`** を選択してください。
+
     ![Storage](./images/light/BackendStorage1.png)
 
 4  **[review]** をクリックし、その後 **[create]** をクリックしてストレージアカウントを作成します。
