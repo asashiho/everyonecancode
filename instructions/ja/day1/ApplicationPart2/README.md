@@ -217,16 +217,31 @@ Azureの世界では、「リソース」はAzureが管理するエンティテ�
     - Region: `West Europe`
     ![backend 0](./images/light/BackendApp0.png)
 
-5. App Service Planのところで **[Create new]** をクリックして、新しい **App Service Plan** を作成します。名前は `everyonecancode-plan-あなたの名前` とします。
-  ![backend 1](./images/light/BackendApp1.png)
+5. App Service Planのところで以下を選択します。
 
-6. 価格のドロップダウンメニューで、無料の **Free F1** を選択します。ほかにもAzureには[無料で使えるサービス](https://azure.microsoft.com/ja-jp/pricing/free-services)がいくつかあります。是非チェックしてみてください。
+|チーム名|App Service Plan|
+|---|---|
+|チーム1|`plan-everyonecancode-group-1`|
+|チーム2|`plan-everyonecancode-group-2`|
+|チーム3|`plan-everyonecancode-group-3`|
+|チーム4|`plan-everyonecancode-group-4`|
+|チーム5|`plan-everyonecancode-group-5`|
+|チーム6|`plan-everyonecancode-group-6`|
+|チーム7|`plan-everyonecancode-group-7`|
+|チーム8|`plan-everyonecancode-group-8`|
+|チーム9|`plan-everyonecancode-group-9`|
 
-7. 画面の下部にある **[review + create]** ボタンをクリックします。
-8. 表示されている情報を確認し、次の画面で **[create]** をクリックしてバックエンドアプリケーションを作成します。
 
-:::tip どのぐらいの料金が必要？
-確認ページでは、サービスの推定コストに関する情報があります。`Estimated price` を確認してください。
+:::warning
+もし自分のチーム名が分からない方は、コーチに確認してください。
+:::
+
+
+6. 画面の下部にある **[review + create]** ボタンをクリックします。
+7. 表示されている情報を確認し、次の画面で **[create]** をクリックしてバックエンドアプリケーションを作成します。
+
+:::tip Azureはどのぐらいの料金が必要？
+Azureの料金は[料金計算ツール](https://azure.microsoft.com/ja-jp/pricing/calculator/?cdn=disable)を使って利用料を計算できます。また、Azureには[無料で使えるサービス](https://azure.microsoft.com/ja-jp/pricing/free-services)がいくつかあります。是非チェックしてみてください。
 :::
 
 ### ストレージとWebアプリを接続します

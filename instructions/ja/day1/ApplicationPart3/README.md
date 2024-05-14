@@ -1,4 +1,4 @@
-# 課題4: GitHub Copilot 
+# (オプショナル)課題4: GitHub Copilot 
 
 ⏲️ _完了までの時間: 15 min._ ⏲️
 
@@ -10,7 +10,7 @@
 - GitHub Copilotでコードを説明します
 
 ## 目次
-- [課題4: GitHub Copilot](#課題4-github-copilot)
+- [(オプショナル)課題4: GitHub Copilot](#オプショナル課題4-github-copilot)
   - [このパートで学ぶこと 🎯](#このパートで学ぶこと-)
   - [目次](#目次)
     - [参考情報](#参考情報)
